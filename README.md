@@ -1,6 +1,6 @@
-# LambdaTest-Maven-Tunnel
+# TestMu AI-Maven-Tunnel — TestMu AI (Formerly LambdaTest)
 
-![LambdaTest Logo](https://www.lambdatest.com/resources/images/selenium-parallel-testing-index.png)
+![TestMu AI Logo](https://www.testmuai.com/resources/images/selenium-parallel-testing-index.png)
 
 ---
 
@@ -13,9 +13,9 @@
 
 1. Global Dependencies
    - Install [Java8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-2. Lambdatest Credentials
+2. TestMu AI Credentials
 
-   - Set LambdaTest username and access key in environment variables. It can be obtained from [LambdaTest dashboard](https://automation.lambdatest.com/)  
+   - Set TestMu AI username and access key in environment variables. It can be obtained from [TestMu AI dashboard](https://automation.lambdatest.com/)  
      example:
 
    * For linux/mac
@@ -47,9 +47,9 @@
 - Set tunnel value to `true` in test capabilities
   > OS specific instructions to download and setup tunnel binary can be found at the following links.
   >
-  > - [Windows](https://www.lambdatest.com/support/docs/display/TD/Local+Testing+For+Windows)
-  > - [Mac](https://www.lambdatest.com/support/docs/display/TD/Local+Testing+For+MacOS)
-  > - [Linux](https://www.lambdatest.com/support/docs/display/TD/Local+Testing+For+Linux)
+  > - [Windows](https://www.testmuai.com/support/docs/display/TD/Local+Testing+For+Windows)
+  > - [Mac](https://www.testmuai.com/support/docs/display/TD/Local+Testing+For+MacOS)
+  > - [Linux](https://www.testmuai.com/support/docs/display/TD/Local+Testing+For+Linux)
 
 ### Important Note:
 
@@ -68,12 +68,23 @@ Some Safari & IE browsers, doesn't support automatic resolution of the URL strin
   - To run parallel tests
     `mvn test -DsuiteXmlFile=MavenParallel.xml`
 
-### Note: You can also mention your LambdaTest credentials in env/default.properties file
+### Note: You can also mention your TestMu AI credentials in env/default.properties file
 
-## About LambdaTest
+## 🚀 [LambdaTest is Now TestMu AI](https://www.testmuai.com/lambdatest-is-now-testmuai/)
 
-[LambdaTest](https://www.lambdatest.com/) is a cloud based selenium grid infrastructure that can help you run automated cross browser compatibility tests on 2000+ different browser and operating system environments. LambdaTest supports all programming languages and frameworks that are supported with Selenium, and have easy integrations with all popular CI/CD platforms. It's a perfect solution to bring your [selenium automation testing](https://www.lambdatest.com/selenium-automation) to cloud based infrastructure that not only helps you increase your test coverage over multiple desktop and mobile browsers, but also allows you to cut down your test execution time by running tests on parallel.
+👋 Welcome to TestMu AI, the next evolution of LambdaTest. As of January 2026, LambdaTest has officially rebranded to TestMu AI. We have evolved from a cross-browser testing cloud into a unified, AI-native quality engineering platform designed for the modern DevOps era.
 
-### Resources
+Whether you have been part of the LambdaTest community for years or are just discovering TestMu AI, our mission remains the same: to help you ship faster with high-scale test execution, autonomous testing, and deep quality analytics.
 
-##### [SeleniumHQ Documentation](http://www.seleniumhq.org/docs/)
+**🔄 Our Rebrand Journey**
+
+We chose the name TestMu AI to reflect our shift towards intelligent, autonomous testing. While our identity has changed, our core technology and commitment to the testing community stay the same.
+
+**✨ Specialties**
+
+- 🤖 AI-Native Test Execution (Formerly LambdaTest)
+- ⚡ Autonomous Test Automation
+- 🌐 Cross-Browser & Mobile Testing
+- 📊 Unified Quality Intelligence
+
+👉 Find [LambdaTest's New Home](https://www.testmuai.com/).
